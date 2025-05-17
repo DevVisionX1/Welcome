@@ -15,7 +15,7 @@
 - 👀 We are passionate about programming, web development and artificial intelligence.
 - 💻 Focused on Microsoft technologies: **C#**, **.NET**, and **SQL Server**.
 - 🌱 Currently developing internal and collaborative open-source projects.
-- 🤝 Open to contributing to web-based and .NET-based applications.
+- 🤝 Open to contribute to web-based developments, .NET, Databases and more...
 - 📫 Contact us at: **dev.vision.x1@gmail.com** or [YouTube](https://www.youtube.com/@DevVisionX)
 
 ---
