@@ -1,8 +1,8 @@
 <div align="center"> 
-  <h1 align="center">Hi, we are <a href="https://github.com/DevVisionX1">DevVisionX1</a> 👋</h1>
+  <h1 align="center">Hi, we are <a href="https://github.com/DevVisionX1">codeMate AR</a> 👋</h1>
 </div>
 
-<img src="https://.png" alt="DevVisionX1 Banner" width="100%">
+<img src="https://.png" alt="codeMate AR Banner" width="100%">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@DevVisionX)
 [![GitHub followers](https://img.shields.io/github/followers/DevVisionX1?style=social)](https://github.com/DevVisionX1)
